@@ -1,0 +1,34 @@
+Number of processor(s) being used: 1
+Current queue size: 4635
+Average queue size: 35
+Maximum jobs in queue: 4511
+Total time jobs are in queue: 4511 time units
+Average time jobs are in queue: 35 time units
+Total number of A jobs arrived: 4
+Total number of A jobs completed: 2396
+Total number of B jobs arrived: 2
+Total number of B jobs completed: 1648
+Total number of C jobs arrived: 0
+Total number of C jobs completed: 1100
+Total number of D jobs arrived: 0
+Total number of D jobs completed: 1200
+Total jobs completed: 125
+Total time CPU(s) were processing: 0 time units
+Total time CPU(s) were idle: 0 time units
+Number of processor(s) being used: 1
+Current queue size: 4635
+Average queue size: 35
+Maximum jobs in queue: 4511
+Total time jobs are in queue: 4511 time units
+Average time jobs are in queue: 35 time units
+Total number of A jobs arrived: 4
+Total number of A jobs completed: 2396
+Total number of B jobs arrived: 2
+Total number of B jobs completed: 1648
+Total number of C jobs arrived: 0
+Total number of C jobs completed: 1100
+Total number of D jobs arrived: 0
+Total number of D jobs completed: 1200
+Total jobs completed: 125
+Total time CPU(s) were processing: 0 time units
+Total time CPU(s) were idle: 0 time units
